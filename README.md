@@ -18,7 +18,7 @@ GitHub (Repository Hosting)
 📂 Repository Structure
 CSFCP-4/
 │
-├── number.py        # Main game code
+├── number guessing.py        # Main game code
 ├── README.md        # Project documentation
 ├── test.md          # Local testing file (ignored)
 ├── test.py          # Temporary test file (ignored)
@@ -29,7 +29,6 @@ Download Python from:
 https://www.python.org/downloads/
 
 2. Clone the Repository
-git clone https://github.com/TRIJALGARG2006/CSFCP-4.git
 3. Navigate into the Project
 cd CSFCP-4
 4. Run the Game
